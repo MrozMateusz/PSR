@@ -1,0 +1,11 @@
+D:\plan8\PSR projekt\Projekt4\Projekt4\obj\Debug\Projekt4.csprojAssemblyReference.cache
+D:\plan8\PSR projekt\Projekt4\Projekt4\obj\Debug\Projekt4.csproj.CoreCompileInputs.cache
+D:\plan8\PSR projekt\Projekt4\Projekt4\bin\Debug\Projekt4.exe.config
+D:\plan8\PSR projekt\Projekt4\Projekt4\bin\Debug\Projekt4.exe
+D:\plan8\PSR projekt\Projekt4\Projekt4\bin\Debug\Projekt4.pdb
+D:\plan8\PSR projekt\Projekt4\Projekt4\bin\Debug\SimpleTCP.dll
+D:\plan8\PSR projekt\Projekt4\Projekt4\obj\Debug\Projekt4.csproj.CopyComplete
+D:\plan8\PSR projekt\Projekt4\Projekt4\obj\Debug\Projekt4.exe
+D:\plan8\PSR projekt\Projekt4\Projekt4\obj\Debug\Projekt4.pdb
+D:\plan8\PSR projekt\Projekt4\Projekt4\bin\Debug\Castle.Core.dll
+D:\plan8\PSR projekt\Projekt4\Projekt4\bin\Debug\Castle.Core.xml
